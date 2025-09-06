@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+We propose building EcoFinds, a responsive web and mobile application that connects buyers and sellers of pre-owned goods. The solution will feature:
+1.Secure User Authentication for signup/login.
+2.User Dashboard & Profile with editable fields.
+3.Product Listings (CRUD) where users can add, edit, or delete items with title, description, category, price, and image.
+4.Browsing & Search with category filters and keyword-based search.
+5.Cart & Purchase History for a smooth buying experience.
+6.Simple, Clean UI ensuring trust and ease of use.
+
+
+Technically, this can be implemented using React for frontend, Node.js for backend, and a cloud database (e.g., Firebase or PostgreSQL) for user and product data. The focus will be on efficiency, scalability, and user-friendliness to support a sustainable second-hand ecosystem.# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
